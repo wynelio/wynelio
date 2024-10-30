@@ -2,6 +2,7 @@
 ![Wynelio's Github Stats](https://github-readme-stats.vercel.app/api?username=wynelio&show_icons=true&theme=dark&count_private=true)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wynelio&theme=dark&layout=compact)
+![GitHub Streak](https://streak-stats.demolab.com/?user=wynelio)
 
 
 <!--
